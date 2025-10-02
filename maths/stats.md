@@ -6,5 +6,5 @@ sidebar:
   nav: "maths"
 ---
 
-# Maths Notes: Pure Content
+# Maths Notes: Stats Content
 To be created (maths/stats).
