@@ -5,6 +5,6 @@ permalink: /
 header: false
 ---
 
-Select a subject.
+Select a subject from the list below.
 
-{% include feature_row id="subjects" %}
+{% include feature_row data=site.data.feature_row.subjects %}
