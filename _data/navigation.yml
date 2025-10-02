@@ -1,0 +1,21 @@
+maths:
+  - title: "Pure"
+    url: /maths/pure/
+  - title: "Statistics"
+    url: /maths/stats/
+  - title: "Mechanics"
+    url: /maths/mech/
+
+computerscience:
+  - title: "Theory"
+    url: /computerscience/theory/
+  - title: "Programming"
+    url: /computerscience/programming/
+
+philosophy:
+  - title: "Philosophy"
+    url: /philosophy/philosophy/
+  - title: "Ethics"
+    url: /philosophy/ethics/
+  - title: "Development of Christian Thought"
+    url: /philosophy/dct/

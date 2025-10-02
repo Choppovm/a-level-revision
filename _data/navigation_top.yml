@@ -1,0 +1,7 @@
+main:
+  - title: "Maths"
+    url: /maths/
+  - title: "Computer Science"
+    url: /computerscience/
+  - title: "Philosophy"
+    url: /philosophy/

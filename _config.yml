@@ -1,0 +1,23 @@
+title: "A-Level Revision"
+description: "GitHub Pages site for A-Level (revision) work + notes"
+theme: minimal-mistakes-jekyll
+
+url: "https://choppovm.github.io"
+baseurl: "/a-level-revision"
+
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "default" # Optional
+
+# Enable nav data
+collections:
+  pages:
+    output: true
+
+# Top navigation
+nav:
+  - scope:
+      path: ""
+    values:
+      navigation: main
