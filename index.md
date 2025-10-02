@@ -13,7 +13,7 @@ feature_row:
     url: "/computerscience/"
     btn_label: "Click here"
   - title: "Philosophy"
-    excerpt: "Philosophy, Ethics, Development of Christian Thought"
+    excerpt: "Philosophy, Ethics, Christian Thought"
     url: "/philosophy/"
     btn_label: "Click here"
 ---
