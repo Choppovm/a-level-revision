@@ -6,5 +6,5 @@ subjects:
     excerpt: "Theory, Programming"
     url: "/computerscience/"
   - title: "Philosophy"
-    except: "Philosophy, Ethics, Development of Christian Thought"
+    excerpt: "Philosophy, Ethics, Development of Christian Thought"
     url: "/philosophy/"
