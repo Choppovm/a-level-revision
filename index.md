@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: splash
 title: "A-Level Revision"
 permalink: /
+header: false
 ---
 
-Pick a subject from the top nav or go to a subject page to see its sidebar.
+{% include feature_row id="subjects" %}
