@@ -25,34 +25,41 @@ Year 2 Textbook - [Click Here](https://www.hachettelearning.com/religious-studie
 | Ethics | 120 | 2 hours | 33.3% |
 | Development of Christian Thought | 120 | 2 hours | 33.3% |
 
-### Topics
-**Year 1**
-* Philosophy
-    * Intro and Greeks
-    * Soul, Mind and Body
-    * A Posteriori - The Existence of God
-    * A Priori - The Existence of God
-    * Religious Experiences
-    * The Problem of Evil
-* Ethics
-    * Natural Law
-    * Situation Ethics
-    * Kant
-    * Utilitarianism
-    * Business Ethics
-    * Euthanasia
-* Development of Christian Thought
-    * Augustine
-    * Life After Death
-    * Knowing God
-    * Jesus
-    * Ethics
-    * Bonhoeffer
-
-**Year 2**
-* Philosophy
-    * To be created
-* Ethics
-    * To be created
-* Development of Christian Thought
-    * To be created
+### Contents
+* **<u>Topics</u>**
+    * **Year 1**
+        * Philosophy
+            * Intro and Greeks
+            * Soul, Mind and Body
+            * A Posteriori - The Existence of God
+            * A Priori - The Existence of God
+            * Religious Experiences
+            * The Problem of Evil
+        * Ethics
+            * Natural Law
+            * Situation Ethics
+            * Kant
+            * Utilitarianism
+            * Business Ethics
+            * Euthanasia
+        * Development of Christian Thought
+            * Augustine
+            * Life After Death
+            * Knowing God
+            * Jesus
+            * Ethics
+            * Bonhoeffer
+    * **Year 2**
+        * Philosophy
+            * Nature / Attributes of God
+            * (To be determined)
+        * Ethics
+            * Conscience
+            * (To be determined)
+        * Development of Christian Thought
+            * To be created
+            * (To be determined)
+* **<u>Miscellaneous</u>**
+    * The Vern Method (essay writing)
+        * erm
+    * (To be determined)
