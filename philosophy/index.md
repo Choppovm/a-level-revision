@@ -52,15 +52,11 @@ Year 2 Textbook - [Click Here](https://www.hachettelearning.com/religious-studie
             * Bonhoeffer
     * **Year 2**
         * Philosophy
-            * Nature / Attributes of God
             * (To be determined)
         * Ethics
-            * Conscience
             * (To be determined)
         * Development of Christian Thought
-            * To be created
             * (To be determined)
 * **<u>Miscellaneous</u>**
-    * The Vern Method (essay writing)
-        * erm
+    * Essay Writing: The Vern Method
     * (To be determined)
