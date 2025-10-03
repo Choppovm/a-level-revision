@@ -33,7 +33,6 @@ Year 2 Textbook - [Click Here](https://www.hachettelearning.com/religious-studie
     * To be created
 
 **Year 2**
-**Year 1**
 * Philosophy
     * To be created
 * Ethics
