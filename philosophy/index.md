@@ -6,6 +6,11 @@ sidebar:
   nav: "philosophy"
 ---
 
+**Warning!**
+This part of the website only currently displays Year 1 content.
+Year 2 content has not been added yet.
+{: .notice--danger}
+
 ## Resources
 Year 1 Textbook - [Click Here](https://www.hachettelearning.com/religious-studies-and-philosophy/ocr-religious-studies-a-level-year-1-and-as)
 

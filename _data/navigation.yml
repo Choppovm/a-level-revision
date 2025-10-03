@@ -38,5 +38,18 @@ philosophy:
         url: /philosophy/philosophy/problem-of-evil
   - title: "Ethics"
     url: /philosophy/ethics/
+    children:
+      - title: "[1] Natural Law"
+        url: /philosophy/ethics/natural-law
+      - title: "[2] Situation Ethics"
+        url: /philosophy/ethics/situation-ethics
+      - title: "[3] Kant"
+        url: /philosophy/ethics/kant
+      - title: "[4] Utilitarianism"
+        url: /philosophy/ethics/utilitarianism
+      - title: "[5] Business Ethics"
+        url: /philosophy/ethics/business-ethics
+      - title: "[6] Euthanasia"
+        url: /philosophy/ethics/euthanasia
   - title: "Development of Christian Thought"
     url: /philosophy/dct/
