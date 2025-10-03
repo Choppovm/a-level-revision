@@ -23,6 +23,19 @@ computerscience:
 philosophy:
   - title: "Philosophy"
     url: /philosophy/philosophy/
+    children:
+      - title: "[1] Intro and Greeks"
+        url: /philosophy/philosophy/intro-and-greeks
+      - title: "[2] Soul, Mind and Body"
+        url: /philosophy/philosophy/soul-mind-and-body
+      - title: "[3] A Posteriori: Arguments for God"
+        url: /philosophy/philosophy/a-posteriori
+      - title: "[4] A Priori: Arguments for God"
+        url: /philosophy/philosophy/a-priori
+      - title: "[5] Religious Experiences"
+        url: /philosophy/philosophy/religious-experiences
+      - title: "[6] Problem of Evil"
+        url: /philosophy/philosophy/problem-of-evil
   - title: "Ethics"
     url: /philosophy/ethics/
   - title: "Development of Christian Thought"

@@ -9,11 +9,7 @@ sidebar:
 ## Resources
 Year 1 Textbook - [Click Here](https://www.hachettelearning.com/religious-studies-and-philosophy/ocr-religious-studies-a-level-year-1-and-as)
 
-![Philosophy Year 1 Textbook](/images/philosophyYear1.png "Philosophy Year 1 Textbook")
-
 Year 2 Textbook - [Click Here](https://www.hachettelearning.com/religious-studies-and-philosophy/ocr-religious-studies-a-level-year-2)
-
-![Philosophy Year 2 Textbook](/images/philosophyYear2.png "Philosophy Year 2 Textbook")
 
 ## Specification
 

@@ -18,6 +18,4 @@ feature_row:
     btn_label: "Click here"
 ---
 
-Select a subject from the list below.
-
 {% include feature_row %}
