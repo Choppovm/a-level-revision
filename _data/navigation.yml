@@ -53,3 +53,16 @@ philosophy:
         url: /philosophy/ethics/euthanasia
   - title: "Development of Christian Thought"
     url: /philosophy/dct/
+    children:
+      - title: "[1] Augustine"
+        url: /philosophy/dct/augustine
+      - title: "[2] Life After Death"
+        url: /philosophy/dct/life-after-death
+      - title: "[3] Knowing God"
+        url: /philosophy/dct/knowing-god
+      - title: "[4] Jesus"
+        url: /philosophy/dct/jesus
+      - title: "[5] Ethics"
+        url: /philosophy/dct/ethics
+      - title: "[6] Bonhoeffer"
+        url: /philosophy/dct/bonhoeffer

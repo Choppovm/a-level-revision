@@ -18,4 +18,8 @@ feature_row:
     btn_label: "Click here"
 ---
 
+**Warning!**
+Only year 1 philosophy has been added to this website. The rest is still in development!
+{: .notice--danger}
+
 {% include feature_row %}
