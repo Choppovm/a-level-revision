@@ -26,11 +26,26 @@ Year 2 Textbook - [Click Here](https://www.hachettelearning.com/religious-studie
 ### Topics
 **Year 1**
 * Philosophy
-    * To be created
+    * Intro and Greeks
+    * Soul, Mind and Body
+    * A Posteriori - The Existence of God
+    * A Priori - The Existence of God
+    * Religious Experiences
+    * The Problem of Evil
 * Ethics
-    * To be created
+    * Natural Law
+    * Situation Ethics
+    * Kant
+    * Utilitarianism
+    * Business Ethics
+    * Euthanasia
 * Development of Christian Thought
-    * To be created
+    * Augustine
+    * Life After Death
+    * Knowing God
+    * Jesus
+    * Ethics
+    * Bonhoeffer
 
 **Year 2**
 * Philosophy
