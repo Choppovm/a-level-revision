@@ -6,5 +6,13 @@ sidebar:
   nav: "philosophy"
 ---
 
-# Philosophy Notes: Ethics
-To be created (philosophy/ethics).
+## Contents
+* **Year 1**
+    * Natural Law
+    * Situation Ethics
+    * Kant
+    * Utilitarianism
+    * Business Ethics
+    * Euthanasia
+* **Year 2**
+    * (To be determined)

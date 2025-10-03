@@ -6,5 +6,13 @@ sidebar:
   nav: "philosophy"
 ---
 
-# Philosophy Notes: Development of Christian Thought
-To be created (philosophy/dct).
+## Contents
+* **Year 1**
+    * Augustine
+    * Life After Death
+    * Knowing God
+    * Jesus
+    * Ethics
+    * Bonhoeffer
+* **Year 2**
+    * (To be determined)
